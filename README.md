@@ -103,3 +103,5 @@ We ❤️ contributions big or small. [See our guide](contributing.md) on how to
 Made with 💜 by DevXP-Tech.
 
 https://www.youtube.com/watch?v=r46uFbu9wOs
+https://medium.com/@mifoster1723/getting-started-with-backstage-26d4c06fb133
+https://medium.com/@mifoster1723/sso-integrations-in-backstage-with-github-e40c2ec519a9
